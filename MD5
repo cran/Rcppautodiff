@@ -1,12 +1,13 @@
-835674a0a9d2c8888bbd264dc67e3fd1 *DESCRIPTION
+43a2e1b12cd57419a44d688fdfdad768 *DESCRIPTION
 d2c589f54ac2419d183e89122ed028c8 *NAMESPACE
+aaac96733f5454981cfc4a60d22e5ed2 *NEWS.md
 0be62a38e7ee3ee525550be182eb631d *R/RcppExports.R
-8532c9f43e72cf38a57c3089dc1918ee *README.md
+fbcf371cd360b538bd52326e30d6833b *README.md
 4bc4b58186d49afac4ad51222739584f *build/vignette.rds
 7180f09ebe426137eff4c405f1b155b2 *inst/doc/Introduction-to-Rcppautodiff.R
 7e5d16a4320d8da1d5a88968cf804294 *inst/doc/Introduction-to-Rcppautodiff.Rmd
 443c29568d19afa886de13dafa4c3390 *inst/doc/Introduction-to-Rcppautodiff.html
-e8c9367f98239a6b95d9c0ff18d6dc0f *inst/examples/autodiff-multi-var.cpp
+f2a3f922878c56044f83ac457385b54e *inst/examples/autodiff-multi-var.cpp
 cb0bf78e52979f9f1440a7308cba3936 *inst/examples/autodiff-params.cpp
 064317815b93db95a5a68eb803b18c80 *inst/examples/autodoff-jacobian.cpp
 f34a4222468f1732c6f84a53e1c0e3c4 *inst/include/Rcppautodiff.h
@@ -14,7 +15,7 @@ a7e8647243ef1a3f79e813f3cfdb79e9 *inst/include/autodiff/BUILD
 b4ac20edea0fe17322b2b58db296f141 *inst/include/autodiff/CMakeLists.txt
 2b2a47953060f0c3d0535da34c856deb *inst/include/autodiff/common/binomialcoefficient.hpp
 cd5bc2d486fd8a075beaee756185ddb8 *inst/include/autodiff/common/classtraits.hpp
-28441933a6603261b3748ae133fd0c1f *inst/include/autodiff/common/eigen.hpp
+9c6ff7e68dc5970f667c462b9d372db5 *inst/include/autodiff/common/eigen.hpp
 a3768c5186720301bfb6c20766dc2e99 *inst/include/autodiff/common/meta.hpp
 a5c9a756c1f654034bafaede0b3b3081 *inst/include/autodiff/common/numbertraits.hpp
 c03764d636be16145c10c1109dfbf2bf *inst/include/autodiff/common/vectortraits.hpp
